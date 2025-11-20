@@ -1,0 +1,11 @@
+id,nombre,email,telefono,ciudad
+1,Juan Pérez,juan.perez@example.com,0991234567,Quito
+2,María López,maria.lopez@example.com,0987654321,Guayaquil
+3,Carlos Ruiz,carlos.ruiz@example.com,0971112233,Cuenca
+4,Ana Torres,ana.torres@example.com,0995556677,Ambato
+5,Luis Gómez,luis.gomez@example.com,0982223344,Manta
+6,Fernanda Díaz,fernanda.diaz@example.com,0973334455,Loja
+7,David Andrade,david.andrade@example.com,0994445566,Riobamba
+8,Andrea Molina,andrea.molina@example.com,0981112234,Machala
+9,Paula Herrera,paula.herrera@example.com,0996667788,Sto. Domingo
+10,Kevin Zamora,kevin.zamora@example.com,0989998877,Ibarra
